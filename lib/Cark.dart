@@ -13,8 +13,8 @@ class _CarkPageState extends State<CarkPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(backgroundColor: Color(0xffDDC3FF), elevation: 0.0),
-      backgroundColor: Color(0xffDDC3FF),
+      appBar: AppBar(backgroundColor: Color(0xFF0A0A0A), elevation: 0.0,title: Text("KAMPANYA",),centerTitle: true,),
+      backgroundColor: Color(0xFF0A0A0A),
       body:sayac<=5 ? Center(  //Hak=5 Tanımlandı
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -66,7 +66,7 @@ class _CarkPageState extends State<CarkPage> {
               stream: _dividerController.stream,
               builder: (context, snapshot) =>
               snapshot.hasData ? RouletteScore(snapshot.data) : Container(),
-            ): Text("ÇEVİR",style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold),),
+            ): Text("ÇEVİR",style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold,color: Colors.white),),
             SizedBox(height: 30),
           ],
         ),
@@ -102,7 +102,7 @@ class RouletteScore extends StatelessWidget {
     return Column(
       children: <Widget>[
         Text('${labels[selected]}',
-            style: TextStyle(fontStyle: FontStyle.italic, fontSize: 24.0)),
+            style: TextStyle(fontStyle: FontStyle.italic, fontSize: 24.0,color: Colors.white)),
       ],
     );
   }
