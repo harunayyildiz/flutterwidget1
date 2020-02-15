@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutterwidget1/Cark.dart';
+//import 'package:flutterwidget1/Cark.dart';
+
+import 'LinearGradient.dart';
 void main() {
   runApp(MyApp());
 }
@@ -7,11 +9,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: false ,
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: CarkPage(),
+      home: Gradientt(),
     );
   }
 }
