@@ -7,9 +7,9 @@ Yalnız burda dikkat edilmesi gereken kısım çarkın dönme hızının random 
       <tr>
          <td>
        
-- [ImageSlider](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/ImageSlider.dart)
+- [SPINNING WHELL](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/ImageSlider.dart)
 <br>
-<a href="https://imgflip.com/gif/3op6ub"><img src="https://i.imgflip.com/3op6ub.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/3pby4b"><img src="https://i.imgflip.com/3pby4b.gif" title="made at imgflip.com"/></a>
         </td>
          <td>
   
