@@ -26,3 +26,23 @@ Yalnız burda dikkat edilmesi gereken kısım çarkın dönme hızının random 
         </td>
       </tr>
    </table>
+   <br>
+   <h2>
+  
+- [NOT HESAPLAMA](https://github.com/harunayyildiz/flutterwidget1/blob/master/lib/Not_Hesaplama/NotHesaplama.dart)
+</h2>
+     <table>
+      <tr>
+         <td>
+<br>
+<a href="https://imgflip.com/gif/3pc8xz"><img src="https://i.imgflip.com/3pc8xz.gif" title="made at imgflip.com"/></a>
+        </td>
+         <td>
+           <td>
+<br>
+<a href="https://imgflip.com/gif/3pc91g"><img src="https://i.imgflip.com/3pc91g.gif" title="made at imgflip.com"/></a>
+        </td>
+      </tr>
+   </table>
+   
+   
