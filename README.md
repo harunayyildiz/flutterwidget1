@@ -12,6 +12,13 @@ Yalnız burda dikkat edilmesi gereken kısım çarkın dönme hızının random 
 <a href="https://imgflip.com/gif/3pby4b"><img src="https://i.imgflip.com/3pby4b.gif" title="made at imgflip.com"/></a>
         </td>
          <td>
+           <td>
+       
+- [SWIPER](https://github.com/harunayyildiz/flutterwidget1/blob/master/lib/SwiperWidget.dart)
+<br>
+<a href="https://imgflip.com/gif/3pc1cg"><img src="https://i.imgflip.com/3pc1cg.gif" title="made at imgflip.com"/></a>
+        </td>
+         <td>
   
   - [LinearGradient](https://github.com/harunayyildiz/flutterwidget1/blob/master/lib/LinearGradient.dart)
   <br>
