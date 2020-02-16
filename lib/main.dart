@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutterwidget1/Not_Hesaplama/NotHesaplama.dart';
+//import 'package:flutterwidget1/Not_Hesaplama/NotHesaplama.dart';
+
+import 'SnackBarWidget.dart';
 //import 'package:flutterwidget1/Cark.dart';
 //import 'LinearGradient.dart';
 //import 'SwiperWidget.dart';
@@ -14,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: NotHesaplama(),
+      home: SnanckBarWidget(),
     );
   }
 }
