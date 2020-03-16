@@ -1,13 +1,10 @@
 import 'dart:io';
-
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-
 class Noconnection extends StatefulWidget {
   @override
   _NoconnectionState createState() => _NoconnectionState();
 }
-
 class _NoconnectionState extends State<Noconnection> {
   @override
   Widget build(BuildContext context) {

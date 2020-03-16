@@ -37,7 +37,7 @@ class _SwipperWidgetState extends State<SwipperWidget> {
       });
 
     });
-    debugPrint("Bağlantı durumu"+connectionstate.toString());
+   // debugPrint("Bağlantı durumu"+connectionstate.toString());
     return  connectionstate==true ? Scaffold(
       body: Container(
         child: Column(

@@ -1,5 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutterwidget1/NoConnection.dart';
+
+import 'Cark.dart';
+import 'LinearGradient.dart';
+import 'Not_Hesaplama/NotHesaplama.dart';
+import 'SnackBarWidget.dart';
+import 'SwiperWidget.dart';
+import 'denememap.dart';
 //import 'package:flutterwidget1/Not_Hesaplama/NotHesaplama.dart';import 'SwiperWidget.dart';
 //import 'package:flutterwidget1/Cark.dart';
 //import 'LinearGradient.dart';
@@ -14,7 +21,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Noconnection(),
+      home: SwipperWidget(),
     );
   }
 }
